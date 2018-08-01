@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TectonicSolver", "TectonicSolver\TectonicSolver.csproj", "{27A793AC-2B46-46FD-A804-58288E573C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TectonicSolve", "TectonicSolve\TectonicSolve.csproj", "{16E8D203-F323-4D71-913D-54FEA4924AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A793AC-2B46-46FD-A804-58288E573C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A793AC-2B46-46FD-A804-58288E573C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A793AC-2B46-46FD-A804-58288E573C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A793AC-2B46-46FD-A804-58288E573C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E8D203-F323-4D71-913D-54FEA4924AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E8D203-F323-4D71-913D-54FEA4924AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E8D203-F323-4D71-913D-54FEA4924AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E8D203-F323-4D71-913D-54FEA4924AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D756F8-A45B-40EE-AEF9-1FDAF2694D02}
+	EndGlobalSection
+EndGlobal
