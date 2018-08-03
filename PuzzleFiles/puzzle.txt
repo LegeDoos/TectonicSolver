@@ -1,0 +1,12 @@
+A;B;B;C;C;C5;D;D4;D3
+A2;A;B;B;C;C;D;D;G1
+A5;A;E;E;F;F;F;G;G
+H;E;E4;E;F;F;G;G;I
+H;J;J;K;L;L1;L;I;I
+H4;K;K;K;K;L;L;O;I4
+H;M;M;M;N;N;O;O5;O
+H;P;M;M5;N;N;N;O;Q
+P;P1;P;R;S;S;Q;Q4;Q
+T;P;U;U;S;S;V;V;Q
+T;T;U2;U;U;S;V;V;1
+
